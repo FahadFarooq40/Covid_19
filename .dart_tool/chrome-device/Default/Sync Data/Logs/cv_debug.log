@@ -1,0 +1,3 @@
+{"logTime": "0506/103248", "correlationVector":"qvYwGTCjoFw0k29jiGaaO2.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"general0100000Y"}}
+{"logTime": "0506/103248", "correlationVector":"qvYwGTCjoFw0k29jiGaaO2","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=qvYwGTCjoFw0k29jiGaaO2}
+{"logTime": "0506/103248", "correlationVector":"qvYwGTCjoFw0k29jiGaaO2.2","action":"GetUpdates Response", "result":"Success", "context":Received 1 update(s). cV=qvYwGTCjoFw0k29jiGaaO2.0;server=general0100000Y;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
